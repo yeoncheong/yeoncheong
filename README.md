@@ -1,6 +1,6 @@
 <div><h1>✨ YEONCHEONG ✨</h1></div>
 
-<div><h3>Profile</h3></div>
+<div><h3>📌 Profile</h3></div>
 <div>
   Sookmyung Woman's University</br>
   Computer Science</br>
@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<div><h3>Tech Stack</h3></div>
+<div><h3>🌱 Tech Stack</h3></div>
 <div><h4>Programming</h4></div>
 <div> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
@@ -48,14 +48,11 @@
 </div>
 <br>
 
-
-<div><h3>Experience</h3></div>
+<div><h3>🎞 Experience</h3></div>
 (2019.03 ~) 숙명여자대학교 소프트웨어학부 컴퓨터과학전공 입학<br>
 (2019.03 ~ 2021.02) 숙명여자대학교 소프트웨어학부 정보보안학회 SISS 20기, 21기 시스템 해킹 및 리버싱<br>
 (2022.03 ~ 2022.07) 대학생 연합 IT벤처창업 동아리 SOPT 30기 안드로이드 파트 YB<br>
 (2022.09 ~) Google Developer Student Club 숙명여자대학교 멤버<br>
 (2022.10 ~ 2022.12) Google Compose Camp 초급코스 캠핑지기<br>
-
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoncheong&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=yeoncheong&show_icons=true">
