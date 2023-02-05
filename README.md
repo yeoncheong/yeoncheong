@@ -7,7 +7,7 @@
   <strong>Mobile App developer</strong></br>
   
   <div><h5>Contact</h5></div>
-  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjin1100@sookmyung.ac.kr)(yjin1100@sookmyung.ac.kr)
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
 <br>
 
