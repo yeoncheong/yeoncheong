@@ -4,7 +4,7 @@
 <div>
   Sookmyung Women's University</br>
   Computer Science</br>
-  <strong>Mobile App eveloper</strong></br>
+  <strong>Mobile App Developer</strong></br>
   
   <div><h5>Contact</h5></div>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
