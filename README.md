@@ -2,7 +2,7 @@
 
 <div><h3>📌 Profile</h3></div>
 <div>
-  Sookmyung Woman's University</br>
+  Sookmyung Women's University</br>
   Computer Science</br>
   <strong>Mobile App developer</strong></br>
   
